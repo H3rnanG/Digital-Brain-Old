@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "b45130bb9aab9449",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22215499922aece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4698f7d9d3ca0c5b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Brain/Me/Me.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "24f41fad8a68fbec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bc7ca470a097340",
+    "type": "split",
+    "children": [
+      {
+        "id": "70fdb6e1e67e7a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1805dff13cc24d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "551182149157b544",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65f092867d05295d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39b711051c057780",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf7c5be11a29b6e",
+        "type": "tabs",
+        "dimension": 44.13461538461539,
+        "children": [
+          {
+            "id": "062f04f1941eae43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9f2822fe05b7a24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "59df1c0f9c7bea13",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8a82eb13fe3d49d9",
+        "type": "tabs",
+        "dimension": 20.576923076923077,
+        "children": [
+          {
+            "id": "eb0387bae05d2456",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e594a5e770f54b3f",
+        "type": "tabs",
+        "dimension": 35.28846153846154,
+        "children": [
+          {
+            "id": "4e681f55dcb6f570",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c256bfca9b64163a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f5b16821e2696ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false
+    }
+  },
+  "active": "24f41fad8a68fbec",
+  "lastOpenFiles": [
+    "Digital Brain/Ing Software/Back End/Languages/Python.md",
+    "Digital Brain/Ing Software/Back End/Languages/Php.md",
+    "Digital Brain/Ing Software/Back End/Back End.md",
+    "Digital Brain/Ing Software/Programming Concepts/Concepts/Internet.md",
+    "Digital Brain/Me/Fast Notes.md",
+    "Digital Brain/Me/Me.md",
+    "Digital Brain/Ing Software/Programming Concepts/Anexos/Pasted image 20230926125411.png",
+    "Digital Brain/Ing Software/Programming Concepts/Anexos/Pasted image 20230926125411 1.png",
+    "Digital Brain/Me/Diccionary.md",
+    "Digital Brain/Me/Diary.md",
+    "Digital Brain/Proyects/Yupanna.md",
+    "Img/Pasted image 20230710115215.png",
+    "Img/Pasted image 20230710114310.png",
+    "Digital Brain/Ing Software/Back End/Languages/Git y GitHub.md",
+    "Digital Brain/Me/English.md",
+    "Img",
+    "Img/Pasted image 20230626142533.png",
+    "Digital Brain/Ing Software/Back End/Frameworks/Laravel.md",
+    "Digital Brain/Ing Software/Front End/Frameworks/View Js.md",
+    "Digital Brain/Me/Audios/19.06 4.webm",
+    "Digital Brain/Me/Audios/19.06 2.webm",
+    "Digital Brain/Me/Audios/19.06 3.webm",
+    "Digital Brain/Me/Audios/19.06 1.webm",
+    "Digital Brain/Me/Concepts.md",
+    "Digital Brain/Me/Audios/Recording 20230619192316.webm",
+    "Digital Brain/Me/Audios",
+    "Recording 20230619192254.webm",
+    "Recording 20230619192238.webm",
+    "Digital Brain/Me/Ultimatum.md",
+    "Recording 20230619192106.webm",
+    "Digital Brain/Senati/Cursos/Desarrollo Humano/Exposicion.md",
+    "Digital Brain/Ing Software/Front End/Frameworks.md",
+    "Digital Brain/Senati/Senati.md",
+    "Digital Brain/Senati/Cursos/Desarrollo Humano/Desarrollo Humano.md",
+    "Digital Brain/Senati/Cursos/Diseño Web III/Diseño Web III.md",
+    "Digital Brain/Senati/Cursos/Modelado y Diseño/Modelado y Diseño.md",
+    "Digital Brain/Senati/Cursos/Modelado y Diseño/Auto Evaluaciones/Auto Evaluacion 4.md",
+    "Digital Brain/Senati/Cursos/Modelado y Diseño/Auto Evaluaciones/Auto Evaluacion 3.md",
+    "git.md",
+    "Digital Brain/Senati/Cursos/Modelado y Diseño/Auto Evaluaciones/Auto Evaluacion 2.md",
+    "Ing Software/Front End/Frameworks/Laravel.md"
+  ]
+}

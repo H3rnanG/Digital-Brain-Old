@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "7833964901335d4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1faffefc0b30ccf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2060849e32032a1c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Me/Me.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47d7ac28ef6a9e67",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c52632cc9499df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b646762615c134",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4b1477b49238a44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Personal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a529fd60b3adc026",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "a9165cbed8ddd20d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d4195193b67010",
+        "type": "tabs",
+        "dimension": 30.067243035542745,
+        "children": [
+          {
+            "id": "e4fe23f11d068c20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Me/Me.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2d3fa07a59abc800",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Me/Me.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7173dc73da4782d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7a0acdde4926a5f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c895bf7ff0063bd5",
+        "type": "tabs",
+        "dimension": 36.40730067243035,
+        "children": [
+          {
+            "id": "e92c85b5c02d31bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Me/Me.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1500835dacc7bba",
+        "type": "tabs",
+        "dimension": 33.525456292026895,
+        "children": [
+          {
+            "id": "8c4377101905563f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": true,
+      "canvas:Crear nuevo canvas": true,
+      "zk-prefixer:Crear nueva nota única": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": true,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2060849e32032a1c",
+  "lastOpenFiles": [
+    "Me/English.md",
+    "Ing Software/Front End/Front End.md",
+    "Ing Software/Back End/Languages/Python.md",
+    "Ing Software/Programming Concepts/Concepts/Internet.md",
+    "Ing Software/Back End/Languages/Pasted image 20230710114310.png.md",
+    "Ing Software/Back End/Frameworks/Laravel.md",
+    "Ing Software/Back End/Back End.md",
+    "Ing Software/Programming Concepts/Programming Concepts.md",
+    "Ing Software/Software Engineering.md",
+    "Me/Me.md",
+    "Ing Software/Programming Concepts/Paradigms/Programacion Orientada a Objetos.md",
+    "Ing Software/Modelo en Espiral.md",
+    "Ing Software/Programming Concepts/Anexos/Pasted image 20230926125411.png",
+    "Me/Diary.md",
+    "Proyects/Taller Mecanica/Taller Mecanica.md",
+    "Me/Fast Notes.md",
+    "Me/Diccionary.md",
+    "Ing Software/Back End/Languages/Php.md",
+    "Ing Software/Front End/Languages/Html.md",
+    "Ing Software/Front End/Languages/Css.md",
+    "Ing Software/Kanban.md",
+    "Ing Software/Back End/Frameworks/Spring Boot.md",
+    "Ing Software/Back End/Formato de Manejo Datos/Json.md",
+    "XML.md",
+    "Ing Software/Back End/Languages/Java.md",
+    "C Sharp.md",
+    "Ing Software/Back End/Languages/C Sharp.md",
+    "Proyects/Realidad Aumentada/Diseño",
+    "Proyects/Realidad Aumentada/Planeacion",
+    "Proyects/Realidad Aumentada/Requerimientos",
+    "Proyects/Realidad Aumentada",
+    "Proyects/Taller Mecanica",
+    "Ing Software/Programming Concepts/Anexos",
+    "Ing Software/Programming Concepts/Concepts",
+    "Ing Software/Back End/Formato de Manejo Datos",
+    "Ing Software/Back End/Anexos/Pasted image 20230912133839.png",
+    "Ing Software/Back End/Anexos/Pasted image 20230912133757.png",
+    "Ing Software/Back End/Anexos/Pasted image 20230912133728.png",
+    "Ing Software/Back End/Anexos",
+    "Proyects/Taller Mecanica/Requerimientos",
+    "Ing Software/Programming Concepts/Modelos de Ciclo de Vida de un Software/Anexos/Pasted image 20230905142352.png",
+    "Ing Software/Programming Concepts/Modelos de Ciclo de Vida de un Software/Anexos/Pasted image 20230905141553.png",
+    "Ing Software/Back End/Languages/Anexos/Pasted image 20230818135928.png",
+    "Ing Software/Back End/Languages/Anexos/Pasted image 20230818135916.png",
+    "Ing Software/Back End/Languages/Anexos/Pasted image 20230818135723.png",
+    "Ing Software/Back End/Languages/Anexos/Pasted image 20230818134702.png",
+    "Untitled.canvas"
+  ]
+}

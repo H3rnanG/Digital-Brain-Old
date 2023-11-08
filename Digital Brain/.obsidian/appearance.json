@@ -1,0 +1,10 @@
+{
+  "accentColor": "#c7003c",
+  "translucency": false,
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "showViewHeader": true,
+  "textFontFamily": "Arial"
+}

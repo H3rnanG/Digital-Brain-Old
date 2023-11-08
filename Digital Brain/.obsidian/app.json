@@ -1,0 +1,17 @@
+{
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./Anexos",
+  "promptDelete": false,
+  "showFrontmatter": false,
+  "rightToLeft": false,
+  "legacyEditor": false,
+  "spellcheck": false,
+  "showInlineTitle": false,
+  "tabSize": 2,
+  "useTab": false,
+  "foldHeading": true,
+  "strictLineBreaks": true
+}
